@@ -1,6 +1,7 @@
 ## Примерная цена хранения документа:
 
 ### Вес документа
+
     ```bash
     Numbers are variable length, with up to 38 significant digits. Leading and trailing zeroes are trimmed. The size of a number is approximately (length of attribute name) + (1 byte per two significant digits) + (1 byte).
 
